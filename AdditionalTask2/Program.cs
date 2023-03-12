@@ -1,2 +1,3 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿// Напишите программу, которая выводит монотонную последовательность 
+// из N элементов в виде равностороннего треугольника с помощью рекурсии
+// N = 5 -> https://ibb.co/9nZgLtY
